@@ -1,0 +1,24 @@
+{
+  "name": "webtech_semester_2_00013836",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzizbekStudent/WT_CW_2_00013836.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzizbekStudent/WT_CW_2_00013836/issues"
+  },
+  "homepage": "https://github.com/AzizbekStudent/WT_CW_2_00013836#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
